@@ -10,7 +10,7 @@ Run this file to train models using a Hydra configuration, e.g.:
 
 # Last trial 
 
-import prueba
+
 import os
 from os.path import join
 from pathlib import Path
