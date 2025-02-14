@@ -3,12 +3,10 @@ Run this file to train models using a Hydra configuration, e.g.:
     python train.py +model=SCBM +data=CUB
 """
 
-## IT WORKS!
+## final test!
 
-#I DONT SEE THESE CHANGES!
+#de verdad!
 
-
-# Last trial 
 
 
 import os
