@@ -1,0 +1,11 @@
+name: scbm
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - matplotlib
+  - conda-forge::hydra-core
+  - plotly
+  - anaconda::seaborn
