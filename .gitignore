@@ -166,3 +166,4 @@ experiments/
 outputs/
 .vscode/
 multirun/
+datasets/cifar10/
